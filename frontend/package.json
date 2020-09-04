@@ -10,7 +10,7 @@
     "graphql": "^14.0.2",
     "graphql-tag": "^2.10.0",
     "highlight.js": "^9.13.1",
-    "marked": "^0.5.1",
+    "marked": "^0.7.0",
     "react": "16.7.0-alpha.2",
     "react-apollo": "^2.2.4",
     "react-dom": "16.7.0-alpha.2",
